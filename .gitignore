@@ -36,8 +36,7 @@ LightingData.asset.meta
 [Rr]elease*/
 Builds/
 ipch/
-Rift Test 1/Rft Test 1/Library
-*/Library/*
+Library/
 obj/
 Temp/
 UWP/
@@ -48,3 +47,5 @@ UnityVS.meta
 
 # Folders to keep
 !Assets/Vendors/InControl/Source/Debug/
+*.assets
+*.assets
